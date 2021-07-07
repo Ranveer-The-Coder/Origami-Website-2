@@ -1,0 +1,44 @@
+h1 {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-size: 100px;
+    font-family: fantasy;
+    
+
+}
+
+/* * {
+    border: solid;
+} */
+
+.header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 100px;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
